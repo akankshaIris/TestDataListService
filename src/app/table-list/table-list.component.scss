@@ -1,0 +1,12 @@
+@import "~ag-grid/dist/styles/ag-grid.css";
+@import "~ag-grid/dist/styles/ag-theme-balham.css";
+.border-ag-grid {
+    border: 1px solid #ddd;
+    padding: 8px;
+    margin: 10px;
+    
+}
+
+.border-ag-grid .ag-header{
+    border: 1px solid #ddd;
+}
